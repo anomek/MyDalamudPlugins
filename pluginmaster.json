@@ -1,0 +1,30 @@
+[
+    {
+        "Author": "Anomek",
+        "Name": "Tomestone Viewer",
+        "Punchline": "View Tomestone.gg in-game.",
+        "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
+        "Changelog": "Created new addon",
+        "InternalName": "TomestoneViewer",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs",
+            "Tomestone"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://github.com/Anomek/TomestoneViewer/raw/master/res/icon.jpg",
+        "ImageUrls": [
+            "https://github.com/anomek/TomestoneViewer/raw/master/res/image1.png",
+            "https://github.com/anomek/TomestoneViewer/raw/master/res/image2.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1713935775"
+    }
+]
