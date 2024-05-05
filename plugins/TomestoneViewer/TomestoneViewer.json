@@ -2,7 +2,7 @@
   "Author": "Anomek",
   "Name": "Tomestone Viewer",
   "InternalName": "TomestoneViewer",
-  "AssemblyVersion": "0.1.1.0",
+  "AssemblyVersion": "0.1.2.0",
   "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
@@ -21,6 +21,6 @@
   ],
   "IconUrl": "https://github.com/Anomek/TomestoneViewer/raw/master/res/icon.jpg",
   "Punchline": "View Tomestone.gg in-game.",
-  "Changelog": "Created new addon",
+  "Changelog": "https://github.com/anomek/TomestoneViewer/releases",
   "AcceptsFeedback": true
 }
