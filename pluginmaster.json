@@ -1,25 +1,33 @@
 [
     {
         "Author": "Anomek",
-        "Name": "Auto Tavel",
-        "Punchline": "Travel between DCs with single click.",
-        "Description": "Automates whole datacenter travel. Select your destination and enjoy, while plugin is going through all menus.",
+        "Name": "Auto Travel",
+        "Punchline": "Travel between Data Centers with single click.",
+        "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
+        "Changelog": "https://github.com/anomek/AutoTravel/releases",
         "InternalName": "AutoTravel",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
+        "RepoUrl": "https://github.com/Anomek/AutoTravel",
         "ApplicableVersion": "any",
         "Tags": [
             "dc",
-            "data center",
+            "data",
+            "center",
             "travel"
         ],
         "DalamudApiLevel": 10,
+        "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/res/icon.jpg",
+        "ImageUrls": [
+            "https://github.com/anomek/AutoTravel/raw/master/res/image1.png",
+            "https://github.com/anomek/AutoTravel/raw/master/res/image2.png"
+        ],
         "DownloadLinkInstall": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723261729"
+        "LastUpdate": "1723319510"
     },
     {
         "Author": "Anomek",
@@ -47,6 +55,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723261729"
+        "LastUpdate": "1723319510"
     }
 ]
