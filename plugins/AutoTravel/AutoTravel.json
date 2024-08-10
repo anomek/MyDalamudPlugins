@@ -2,7 +2,7 @@
   "Author": "Anomek",
   "Name": "Auto Travel",
   "InternalName": "AutoTravel",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.1.0",
   "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/AutoTravel",
@@ -21,7 +21,7 @@
     "https://github.com/anomek/AutoTravel/raw/master/res/image1.png",
     "https://github.com/anomek/AutoTravel/raw/master/res/image2.png"
   ],
-  "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/res/icon.jpg",
+  "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/res/icon.png",
   "Punchline": "Travel between Data Centers with single click.",
   "Changelog": "https://github.com/anomek/AutoTravel/releases",
   "AcceptsFeedback": true
