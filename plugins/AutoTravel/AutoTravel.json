@@ -1,0 +1,20 @@
+{
+  "Author": "Anomek",
+  "Name": "Auto Tavel",
+  "InternalName": "AutoTravel",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Automates whole datacenter travel. Select your destination and enjoy, while plugin is going through all menus.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dc",
+    "data center",
+    "travel"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Travel between DCs with single click.",
+  "AcceptsFeedback": true
+}
