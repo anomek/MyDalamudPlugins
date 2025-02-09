@@ -2,7 +2,7 @@
   "Author": "Anomek",
   "Name": "Auto Travel",
   "InternalName": "AutoTravel",
-  "AssemblyVersion": "0.0.4.0",
+  "AssemblyVersion": "0.0.4.1",
   "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/AutoTravel",
