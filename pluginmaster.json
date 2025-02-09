@@ -25,7 +25,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1736483597"
+        "LastUpdate": "1739068932"
     },
     {
         "Author": "Anomek",
@@ -34,7 +34,7 @@
         "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
         "Changelog": "https://github.com/anomek/AutoTravel/releases",
         "InternalName": "AutoTravel",
-        "AssemblyVersion": "0.0.4.0",
+        "AssemblyVersion": "0.0.4.1",
         "RepoUrl": "https://github.com/Anomek/AutoTravel",
         "ApplicableVersion": "any",
         "Tags": [
@@ -55,6 +55,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1736483597"
+        "LastUpdate": "1739068932"
     }
 ]
