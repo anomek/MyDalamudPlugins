@@ -3,10 +3,10 @@
         "Author": "Anomek",
         "Name": "Auto Travel",
         "Punchline": "Travel between Data Centers with single click.",
-        "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
+        "Description": "AutoTravel plugin for Dalamud.",
         "Changelog": "https://github.com/anomek/AutoTravel/releases",
         "InternalName": "AutoTravel",
-        "AssemblyVersion": "0.0.6.0",
+        "AssemblyVersion": "0.0.7.0",
         "RepoUrl": "https://github.com/Anomek/AutoTravel",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,7 +15,7 @@
             "center",
             "travel"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/anomek/AutoTravel/raw/master/res/image1.png",
@@ -27,7 +27,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1767153327"
+        "LastUpdate": "1767156903"
     },
     {
         "Author": "Anomek",
@@ -55,6 +55,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1767153327"
+        "LastUpdate": "1767156903"
     }
 ]
