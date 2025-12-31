@@ -2,8 +2,8 @@
   "Author": "Anomek",
   "Name": "Auto Travel",
   "InternalName": "AutoTravel",
-  "AssemblyVersion": "0.0.6.0",
-  "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
+  "AssemblyVersion": "0.0.7.0",
+  "Description": "AutoTravel plugin for Dalamud.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/AutoTravel",
   "Tags": [
@@ -12,7 +12,7 @@
     "center",
     "travel"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
