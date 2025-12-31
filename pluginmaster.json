@@ -27,23 +27,23 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1764925974"
+        "LastUpdate": "1767153327"
     },
     {
         "Author": "Anomek",
         "Name": "Tomestone Viewer",
         "Punchline": "View Tomestone.gg in-game.",
-        "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
+        "Description": "Shows prog points in high end content for players from tomestone.gg",
         "Changelog": "https://github.com/anomek/TomestoneViewer/releases",
         "InternalName": "TomestoneViewer",
-        "AssemblyVersion": "0.2.2.2",
+        "AssemblyVersion": "0.2.3.0",
         "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs",
             "Tomestone"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "https://github.com/Anomek/TomestoneViewer/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/anomek/TomestoneViewer/raw/master/res/image1.png",
@@ -55,6 +55,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1764925974"
+        "LastUpdate": "1767153327"
     }
 ]
