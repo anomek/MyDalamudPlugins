@@ -2,15 +2,15 @@
   "Author": "Anomek",
   "Name": "Tomestone Viewer",
   "InternalName": "TomestoneViewer",
-  "AssemblyVersion": "0.2.2.2",
-  "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
+  "AssemblyVersion": "0.2.3.0",
+  "Description": "Shows prog points in high end content for players from tomestone.gg",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
   "Tags": [
     "FFLogs",
     "Tomestone"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
