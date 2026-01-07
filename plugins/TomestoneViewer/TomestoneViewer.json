@@ -2,7 +2,7 @@
   "Author": "Anomek",
   "Name": "Tomestone Viewer",
   "InternalName": "TomestoneViewer",
-  "AssemblyVersion": "0.2.3.0",
+  "AssemblyVersion": "0.2.3.1",
   "Description": "Shows prog points in high end content for players from tomestone.gg",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
