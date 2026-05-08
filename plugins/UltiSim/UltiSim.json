@@ -1,0 +1,21 @@
+{
+  "Author": "Anomek",
+  "Name": "UltiSim",
+  "InternalName": "UltiSim",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/anomek/UltiSim",
+  "Tags": [
+    "ultimate",
+    "practice",
+    "simulator"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Simulate ultimate raid mechanics solo.",
+  "AcceptsFeedback": true
+}
