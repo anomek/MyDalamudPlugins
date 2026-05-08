@@ -1,6 +1,29 @@
 [
     {
         "Author": "Anomek",
+        "Name": "UltiSim",
+        "Punchline": "Simulate ultimate raid mechanics solo.",
+        "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
+        "InternalName": "UltiSim",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/anomek/UltiSim",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ultimate",
+            "practice",
+            "simulator"
+        ],
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1778231746"
+    },
+    {
+        "Author": "Anomek",
         "Name": "Tomestone Viewer",
         "Punchline": "View Tomestone.gg in-game.",
         "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
@@ -25,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777523834"
+        "LastUpdate": "1778231746"
     },
     {
         "Author": "Anomek",
@@ -55,6 +78,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777523834"
+        "LastUpdate": "1778231746"
     }
 ]
