@@ -27,7 +27,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987765"
+        "LastUpdate": "1778987855"
     },
     {
         "Author": "Anomek",
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987765"
+        "LastUpdate": "1778987855"
     },
     {
         "Author": "Anomek",
@@ -85,6 +85,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AnoMech/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AnoMech/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987765"
+        "LastUpdate": "1778987855"
     }
 ]
