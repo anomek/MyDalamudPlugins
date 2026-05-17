@@ -27,30 +27,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AutoTravel/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987683"
-    },
-    {
-        "Author": "Anomek",
-        "Name": "UltiSim",
-        "Punchline": "Simulate ultimate raid mechanics solo. Go to inn and start practice. WARNING: restart game after practice",
-        "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. This plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it. If you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
-        "InternalName": "UltiSim",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/anomek/UltiSim",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "ultimate",
-            "practice",
-            "simulator"
-        ],
-        "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/UltiSim/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1778987683"
+        "LastUpdate": "1778987765"
     },
     {
         "Author": "Anomek",
@@ -78,7 +55,7 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/TomestoneViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987683"
+        "LastUpdate": "1778987765"
     },
     {
         "Author": "Anomek",
@@ -108,6 +85,6 @@
         "DownloadLinkTesting": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AnoMech/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/MyDalamudPlugins/raw/master/plugins/AnoMech/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1778987683"
+        "LastUpdate": "1778987765"
     }
 ]
