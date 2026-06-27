@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadCount": 20,
+        "DownloadCount": 45,
         "LastUpdate": "1782585660"
     },
     {
@@ -36,7 +36,7 @@
         "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
         "Changelog": "https://github.com/anomek/AutoTravel/releases",
         "InternalName": "AutoTravel",
-        "AssemblyVersion": "0.0.8.0",
+        "AssemblyVersion": "0.0.8.1",
         "RepoUrl": "https://github.com/Anomek/AutoTravel",
         "ApplicableVersion": "any",
         "Tags": [
@@ -46,10 +46,10 @@
             "travel"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/res/icon.png",
+        "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/images/icon.png",
         "ImageUrls": [
-            "https://github.com/anomek/AutoTravel/raw/master/res/image1.png",
-            "https://github.com/anomek/AutoTravel/raw/master/res/image2.png"
+            "https://github.com/anomek/AutoTravel/raw/master/images/image1.png",
+            "https://github.com/anomek/AutoTravel/raw/master/images/image2.png"
         ],
         "DownloadLinkInstall": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "IsHide": false,
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777523857"
+        "LastUpdate": "1782589111"
     },
     {
         "Author": "Anomek",
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 14,
+        "DownloadCount": 40,
         "LastUpdate": "1782586241"
     }
 ]
