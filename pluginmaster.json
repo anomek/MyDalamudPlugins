@@ -66,7 +66,7 @@
         "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
         "Changelog": "https://github.com/anomek/TomestoneViewer/releases",
         "InternalName": "TomestoneViewer",
-        "AssemblyVersion": "0.2.7.3",
+        "AssemblyVersion": "0.2.8.0",
         "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -85,6 +85,6 @@
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1780256330"
+        "LastUpdate": "1782586241"
     }
 ]
