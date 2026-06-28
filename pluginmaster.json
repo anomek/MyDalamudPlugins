@@ -5,7 +5,7 @@
         "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice. WARNING: restart game after practice",
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
         "InternalName": "AnoMech",
-        "AssemblyVersion": "0.3.6.0",
+        "AssemblyVersion": "0.3.7.0",
         "RepoUrl": "https://github.com/anomek/AnoMech",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,8 +26,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadCount": 512,
-        "LastUpdate": "1782680329"
+        "DownloadCount": 514,
+        "LastUpdate": "1782682373"
     },
     {
         "Author": "Anomek",
@@ -56,7 +56,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-        "DownloadCount": 196,
+        "DownloadCount": 198,
         "LastUpdate": "1782589111"
     },
     {
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 672,
+        "DownloadCount": 680,
         "LastUpdate": "1782586241"
     }
 ]
