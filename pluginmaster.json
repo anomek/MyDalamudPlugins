@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadCount": 514,
+        "DownloadCount": 627,
         "LastUpdate": "1782682373"
     },
     {
@@ -56,7 +56,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-        "DownloadCount": 230,
+        "DownloadCount": 279,
         "LastUpdate": "1782589111"
     },
     {
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 783,
+        "DownloadCount": 911,
         "LastUpdate": "1782586241"
     }
 ]
