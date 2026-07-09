@@ -2,10 +2,10 @@
     {
         "Author": "Anomek",
         "Name": "AnoMech",
-        "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice. WARNING: restart game after practice",
-        "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
+        "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
+        "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
         "InternalName": "AnoMech",
-        "AssemblyVersion": "0.3.8.0",
+        "AssemblyVersion": "0.3.9.0",
         "RepoUrl": "https://github.com/anomek/AnoMech",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,8 +26,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
-        "DownloadCount": 1347,
-        "LastUpdate": "1782929389"
+        "DownloadCount": 1406,
+        "LastUpdate": "1783560606"
     },
     {
         "Author": "Anomek",
@@ -56,7 +56,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-        "DownloadCount": 423,
+        "DownloadCount": 436,
         "LastUpdate": "1782589111"
     },
     {
@@ -84,7 +84,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-        "DownloadCount": 1356,
+        "DownloadCount": 1381,
         "LastUpdate": "1782586241"
     }
 ]
