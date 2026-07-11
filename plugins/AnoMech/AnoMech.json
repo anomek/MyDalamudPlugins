@@ -2,7 +2,7 @@
   "Author": "Anomek",
   "Name": "AnoMech",
   "InternalName": "AnoMech",
-  "AssemblyVersion": "0.3.10.0",
+  "AssemblyVersion": "0.3.11.0",
   "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/anomek/AnoMech",
